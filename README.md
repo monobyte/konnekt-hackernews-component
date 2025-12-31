@@ -1,1 +1,0 @@
-# konnekt-hackernews-component
